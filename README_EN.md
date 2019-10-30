@@ -18,7 +18,7 @@ This asset provides you the tutorial of MultiVAC testnet's mining client and rel
 
 ### Create a new address
 
-If you don't have a MultiVAC address yet, please click [Address Application] (http://test.e.mtv.ac/#/wallet/create) to apply for a new address.
+If you don't have a MultiVAC address yet, please click [Address Application](http://test.e.mtv.ac/#/wallet/create) to apply for a new address.
 
 ### Swap an old-version address
 
