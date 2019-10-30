@@ -7,16 +7,24 @@
 [![link](https://img.shields.io/badge/link-browser-red)](http://test.e.mtv.ac)
 [![version](https://img.shields.io/badge/version-testnet3.0-blue)](http://test.e.mtv.ac)
 [![contact-tel](https://img.shields.io/badge/contact-telegram-blue)](https://t.me/joinchat/I-io_BT_CZjznBGo90vdRA)
-[![contact-wechat](https://img.shields.io/badge/contact-wechat%3Amtv2018001-brightgreen)](mtv2018001)
+[![contact-wechat](https://img.shields.io/badge/contact-wechat-brightgreen)](https://s2.ax1x.com/2019/10/30/K4Rqne.jpg)
 
 ## 文件目录
 
 - tools：包含地址转换工具，用于将MultiVAC testnet2.0地址转换成testnet3.0地址
 - client：包含不同系统平台的挖矿程序下载链接
 
-## 地址转换
+## 登记挖矿地址
+
+### 新地址生成
+
+如果您没有MultiVAC地址，点击[地址申请](http://test.e.mtv.ac/#/wallet/create)申请新的地址
+
+### 旧地址转换方法
 
 如果你使用的是旧版本地址，请先使用[地址转换工具](tools/addressconversion/README.md)将旧地址转换成适配`testnet3.0`版本的新地址
+
+### 填写表单
 
 生成地址后，请将地址填入表单，便于我们提前为大家抵押100万MTV用于内测：
 - [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
