@@ -33,7 +33,7 @@ After creating the new address, please fill it in the form. We will help you dep
 
 ## Configuration
 
-To ensure the client can run steadily, please make sure that your computer is not lower than the following configuration
+To ensure the client can run steadily, please make sure that your computer is not lower than the following configuration.
 
 Project | The Minimum Requirement
 ---|---
@@ -47,7 +47,7 @@ Network Bandwidth | 10Mbps/s
 
 You can go to the sub-directory of the [client](client/README.md) and find the download link there.
 
-Or download through command-line
+Or download through command-line.
 
 - Mac version
 ```bash
@@ -61,7 +61,7 @@ $ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/linux/MultiVAC
 
 ## Run the Mining Client
 
-Please first open the file where the MultiVAC mining client is located in the terminal (command line), and use the following command line to run the client (here we take Linux version as an example)
+Please first open the file where the MultiVAC mining client is located in the terminal (command line), and use the following command line to run the client (here we take Linux version as an example).
 
 - Modify execution permissions
 ```bash
@@ -76,8 +76,8 @@ $ ./MultiVAC --listen="ip:port" --sk="your_sk"
 ### Program command parameter
 Parameter name | Definition 
 ---|---
-listen | IP address and Port No. monitored by the program (To check your LAN IP address, please use the command line ifconfig)
-sk | MultiVAC deposit account private key
+listen | IP address and Port No. monitored by the program (To check your LAN IP address, please use the command line ifconfig).
+sk | MultiVAC deposit account private key.
 
 ### Notes
 The MultiVAC mining client won't consume a lot of storage and computing resources. However, it's dependent on your network environment. Please make sure your network environment and resources are sufficient to run the client.
