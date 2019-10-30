@@ -16,7 +16,7 @@
 
 ## 地址转换
 
-如果你使用的是旧版本地址，请先使用[地址转换工具](tools/README.md)将旧地址转换成适配`testnet3.0`版本的新地址
+如果你使用的是旧版本地址，请先使用[地址转换工具](tools/addressconversion/README.md)将旧地址转换成适配`testnet3.0`版本的新地址
 
 生成地址后，请将地址填入表单，便于我们提前为大家抵押100万MTV用于内测：
 - [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
