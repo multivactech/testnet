@@ -22,7 +22,7 @@ If you don't have a MultiVAC address yet, please click [Address Application](htt
 
 ### Swap an old-version address
 
-If you use the old-version address, please use the [address swap tool](tools/addressconversion/README.md) to convert it to the new address suitable for testnet 3.0.
+If you use the old-version address, please use the [Address Wwap Tool](tools/addressconversion/README.md) to convert it to the new address suitable for testnet 3.0.
 
 ### Fill in the form
 
