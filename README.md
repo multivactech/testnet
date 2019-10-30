@@ -18,6 +18,10 @@
 
 如果你使用的是旧版本地址，请先使用[地址转换工具](tools/README.md)将旧地址转换成适配`testnet3.0`版本的新地址
 
+生成地址后，请将地址填入表单，便于我们提前为大家抵押100万MTV用于内测：
+- [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
+- [English form](http://mtvmining.va.mikecrm.com/yIMw0Jn)
+
 ## 下载客户端
 
 进入本仓库[client](client/README.md)文件夹对应的系统平台子目录中可以找到下载链接

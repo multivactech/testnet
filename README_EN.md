@@ -18,9 +18,13 @@ This asset provides you the tutorial of MultiVAC testnet's mining client and rel
 
 If you use the old-version address, please use the [address swap tool](tools/README.md) to swap it to the new address suitable for testnet 3.0.
 
+After creating the new address, please fill it in the form. We will help you deposit 1 million MTV for the beta test.
+- [English form](http://mtvmining.va.mikecrm.com/yIMw0Jn)
+- [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
+
 ## Configuration
 
-To ensure the client can run steadily, please make sure that your computer is not lower than the following configuration:
+To ensure the client can run steadily, please make sure that your computer is not lower than the following configuration
 
 Project | The Minimum Requirement
 ---|---
