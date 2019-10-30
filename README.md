@@ -38,12 +38,12 @@
 
 - Mac 版本
 ```bash
-$ wget url
+$ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/mac/MultiVAC
 ```
 
 - Linux 版本
 ```bash
-$ wget url
+$ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/linux/MultiVAC
 ```
 
 ## 硬件配置

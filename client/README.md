@@ -1,4 +1,4 @@
 # Version
 
 ## Release Version
-- [beta-testnet3.0.0](beta-testnet3.0.0.md)
+- [beta-0.0.1](beta-0.0.1.md)
