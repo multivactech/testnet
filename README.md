@@ -72,8 +72,8 @@ MultiVAC客户端不会大量消耗主机的存储和计算资源，但会依赖
 
 ### 如何判定节点成功加入了网络？
 日志关键词：
-- **Accept a new block, shard: xx, height: xxx**
-- **I'm potential leader for round xxx**
+- Accept a new block, shard: xx, height: xxx
+- I'm potential leader for round xxx
 
 当终端连续输出上述信息时，代表节点正在为某分片服务，也意味着成功加入了网络
 

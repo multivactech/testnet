@@ -73,8 +73,8 @@ The MultiVAC mining client won't consume a lot of storage and computing resource
 
 ### How to know that my node has joined the network successfully ?
 Keywords in the Log:
-- **Accept a new block, shard: xx, height: xxx**
-- **I'm potential leader for round xxx**
+- Accept a new block, shard: xx, height: xxx
+- I'm potential leader for round xxx
 
 When the terminal keeps outputting the above info, it means the node is serving for a Shard, which indicates it has joined the network successfully.
 
