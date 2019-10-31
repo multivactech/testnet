@@ -1,5 +1,7 @@
 # MultiVAC 测试网挖矿客户端说明
 
+**本次客户端删档内测已结束。**
+
 本仓库提供了MultiVAC测试网挖矿客户端程序以及相关工具和挖矿教程
 
 - [English Version 英文版](README_EN.md)
