@@ -1,4 +1,4 @@
 # Version
 
 ## Release Version
-- [beta-0.0.1](beta-0.0.1.md)
+- [beta-0.1.0](beta-0.0.1.md)
