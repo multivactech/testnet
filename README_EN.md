@@ -31,6 +31,8 @@ After creating the new address, please fill it in the form. We will help you dep
 - [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
 - [English form](http://mtvmining.va.mikecrm.com/yIMw0Jn)
 
+If you want to join our beta test after the start time at 14:00 (UTC+8) on Oct 31, you cannot join through your own address. Please contact our admins to get a private key in order to join the test.
+
 ## Configuration
 
 To ensure the client can run steadily, please make sure that your computer is not lower than the following configuration.

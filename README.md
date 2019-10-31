@@ -30,6 +30,8 @@
 - [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
 - [English form](http://mtvmining.va.mikecrm.com/yIMw0Jn)
 
+活动开启后（10月31日14：00 UTC+8），不能使用自己的地址参与测试，请联系客服人员获取私钥参与测试
+
 ## 下载客户端
 
 进入本仓库[client](client/README.md)文件夹对应的系统平台子目录中可以找到下载链接
