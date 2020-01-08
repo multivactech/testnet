@@ -71,7 +71,7 @@ CPU | 2核
 
 mac os：
 ```bash
-$ rm -rf /Users/`xxx`/Library/Application\ Support/Multivac
+$ rm -rf /Users/xxx/Library/Application\ Support/Multivac
 ```
 
 linux：

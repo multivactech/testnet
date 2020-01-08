@@ -75,7 +75,7 @@ If you have operated the last version mining client before, we recommend you del
 
 mac os：
 ```bash
-$ rm -rf /Users/`xxx`/Library/Application\ Support/Multivac
+$ rm -rf /Users/xxx/Library/Application\ Support/Multivac
 ```
 
 linux：
