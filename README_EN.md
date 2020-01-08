@@ -1,4 +1,4 @@
-# MultiVAC Testnet 3.0 Beta Test Guide
+# MultiVAC Testnet 3.0 Beta Test Guide（Version: Oracle）
 
 This asset provides you the tutorial of MultiVAC testnet's mining client and relevant tools.
 
