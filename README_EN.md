@@ -1,6 +1,5 @@
 # MultiVAC Testnet 3.0 Beta Test Guide
 
-**This time’s CBT ends now.**
 This asset provides you the tutorial of MultiVAC testnet's mining client and relevant tools.
 
 - [中文版 Chinese version](README.md)
