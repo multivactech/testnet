@@ -7,7 +7,7 @@ This asset provides you the tutorial of MultiVAC testnet's mining client and rel
 [![link](https://img.shields.io/badge/link-browser-red)](http://test.e.mtv.ac)
 [![version](https://img.shields.io/badge/version-testnet3.0-blue)](http://test.e.mtv.ac)
 [![contact-tel](https://img.shields.io/badge/contact-telegram-blue)](https://t.me/joinchat/I-io_BT_CZjznBGo90vdRA)
-[![contact-wechat](https://img.shields.io/badge/contact-wechat-brightgreen)](https://s2.ax1x.com/2019/10/30/K4Rqne.jpg)
+<!-- [![contact-wechat](https://img.shields.io/badge/contact-wechat-brightgreen)](https://s2.ax1x.com/2019/10/30/K4Rqne.jpg) -->
 
 <!-- ## Files
 
