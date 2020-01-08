@@ -1,4 +1,5 @@
 # Version
 
-## Release Version
-- [beta-0.1.0](beta-0.0.1.md)
+## Release Version: Oracle
+- [Linux](https://github.com/multivactech/testnet/releases)
+- [Mac](https://github.com/multivactech/testnet/releases)

@@ -1,4 +1,4 @@
-# MultiVAC 测试网挖矿客户端说明
+# MultiVAC 测试网挖矿客户端说明(内测)
 
 **本次客户端删档内测已结束。**
 
@@ -11,7 +11,7 @@
 [![contact-tel](https://img.shields.io/badge/contact-telegram-blue)](https://t.me/joinchat/I-io_BT_CZjznBGo90vdRA)
 [![contact-wechat](https://img.shields.io/badge/contact-wechat-brightgreen)](https://s2.ax1x.com/2019/10/30/K4Rqne.jpg)
 
-## 文件目录
+<!-- ## 文件目录
 
 - tools：包含地址转换工具，用于将MultiVAC testnet2.0地址转换成testnet3.0地址
 - client：包含不同系统平台的挖矿程序下载链接
@@ -32,7 +32,11 @@
 - [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
 - [English form](http://mtvmining.va.mikecrm.com/yIMw0Jn)
 
-活动开启后（10月31日14：00 UTC+8），不能使用自己的地址参与测试，请联系客服人员获取私钥参与测试
+活动开启后（10月31日14：00 UTC+8），不能使用自己的地址参与测试，请联系客服人员获取私钥参与测试 -->
+
+## 获取测试专属私钥
+
+您可以用过联系MultiVAC运营同学获取专属私钥
 
 ## 下载客户端
 
@@ -64,12 +68,27 @@ CPU | 2核
 
 在终端（命令行）中进入MultiVAC客户端所在的文件夹并输入下面命令运行客户端：
 
-- 修改执行权限
+1. 删除遗留文件
+如果你曾经运行过以往的客户端版本我们建议首先删除遗留文件：
+
+mac os：
+```bash
+$ rm -rf /Users/`xxx`/Library/Application\ Support/Multivac
+```
+
+linux：
+```bash
+$ rm -rf /home/mac/.multivac
+```
+
+注：`xxx`是你系统的用户名
+
+2. 修改执行权限
 ```bash
 $ chmod +x MultiVAC
 ```
 
-- 启动运行
+3. 启动运行
 ```bash
 $ ./MultiVAC --listen="ip:port" --sk="your_sk"
 ```
@@ -109,3 +128,6 @@ MultiVAC客户端不会大量消耗主机的存储和计算资源，但会依赖
 
 ### 没有抵押证明？
 如果配置的节点没有抵押证明，那么一段时间客户端将会退出，请联系客服人员确认抵押信息
+
+### MAC OS无法验证开发者?
+请在终端输入：sudo xattr -r -d com.apple.quarantine  “MultiVAC路径”

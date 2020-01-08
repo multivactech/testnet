@@ -10,7 +10,7 @@ This asset provides you the tutorial of MultiVAC testnet's mining client and rel
 [![contact-tel](https://img.shields.io/badge/contact-telegram-blue)](https://t.me/joinchat/I-io_BT_CZjznBGo90vdRA)
 [![contact-wechat](https://img.shields.io/badge/contact-wechat-brightgreen)](https://s2.ax1x.com/2019/10/30/K4Rqne.jpg)
 
-## Files
+<!-- ## Files
 
 - Tools：Address swap tool. You can use this tool to change the MultiVAC testnet 2.0's address to the one in testnet 3.0
 - Client：Download links for our mining client in different OS
@@ -32,7 +32,11 @@ After creating the new address, please fill it in the form. We will help you dep
 - [中文表单](http://mtvmining.va.mikecrm.com/rZqHF3o)
 - [English form](http://mtvmining.va.mikecrm.com/yIMw0Jn)
 
-If you want to join our beta test after the start time at 14:00 (UTC+8) on Oct 31, you cannot join through your own address. Please contact our admins to get a private key in order to join the test.
+If you want to join our beta test after the start time at 14:00 (UTC+8) on Oct 31, you cannot join through your own address. Please contact our admins to get a private key in order to join the test. -->
+
+## Attain a Private Key to Join the Test
+You can contact our admin to attain a private key to join the beta test.
+
 
 ## Configuration
 
@@ -66,12 +70,28 @@ $ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/linux/MultiVAC
 
 Please first open the file where the MultiVAC mining client is located in the terminal (command line), and use the following command line to run the client (here we take Linux version as an example).
 
-- Modify execution permissions
+1. Delete previous files:
+
+If you have operated the last version mining client before, we recommend you delete the previous files first.
+
+mac os：
+```bash
+$ rm -rf /Users/`xxx`/Library/Application\ Support/Multivac
+```
+
+linux：
+```bash
+$ rm -rf /home/mac/.multivac
+```
+
+Note: `xxx` is your system account name.
+
+2. Modify execution permissions
 ```bash
 $ chmod +x MultiVAC
 ```
 
-- Start running
+3. Start running
 ```bash
 $ ./MultiVAC --listen="ip:port" --sk="your_sk"
 ```
@@ -112,3 +132,6 @@ If the node has joined the network successfully, there exists a probability that
 
 ### No deposit proof? 
 If the configured node doesn't have deposit proof, the client will log out after a while. Please contact our support team to confirm the deposit information.
+
+### MAC OS Cannot Verify Developer?
+Please enter in the terminal: sudo xattr -r -d com.apple.quarantine  “MultiVAC Path”
