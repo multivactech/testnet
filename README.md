@@ -40,7 +40,7 @@
 
 进入本仓库[client](client/README.md)文件夹对应的系统平台子目录中可以找到下载链接
 
-或者也可以通过命令行下载：
+<!-- 或者也可以通过命令行下载：
 
 - Mac 版本
 ```bash
@@ -50,7 +50,7 @@ $ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/mac/MultiVAC
 - Linux 版本
 ```bash
 $ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/linux/MultiVAC
-```
+``` -->
 
 ## 硬件配置
 为保证程序正常运行，请确保主机不低于以下配置：

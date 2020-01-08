@@ -53,7 +53,7 @@ Network Bandwidth | 10Mbps/s
 
 You can go to the sub-directory of the [client](client/README.md) and find the download link there.
 
-Or download through command-line.
+<!-- Or download through command-line.
 
 - Mac version
 ```bash
@@ -63,7 +63,7 @@ $ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/mac/MultiVAC
 - Linux version
 ```bash
 $ wget https://multivac-hk.s3.ap-east-1.amazonaws.com/download/linux/MultiVAC
-```
+``` -->
 
 ## Run the Mining Client
 
